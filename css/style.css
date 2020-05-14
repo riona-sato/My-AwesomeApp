@@ -66,3 +66,32 @@ header img{
   padding-bottom: 64px;
 }
 
+.memders{
+  background: #f2f2f2;
+}
+
+.memders > h1{   /*features直下のh1のみ変更には > を使用する*/
+  text-align: center;
+  padding: 64px 0;
+  font-weight: normal;
+}
+
+.memders ul{
+  list-style: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.memders img{
+  width: 160px;
+  border-radius: 50px;
+}
+
+.memders h2{
+  font-size: 20px;
+}
+
+.memders li{
+  padding-bottom: 64px;
+}
